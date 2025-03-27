@@ -110,7 +110,6 @@ ent-ADTClothingUniformJumpsuitTurtleneckRed = красная водолазка
     .desc = Хорошо маскирует следы крови.
     .suffix = { "" }
 
-
 ent-ADTClothingUniformJumpsuitTurtleneckYellow = жёлтая водолазка
     .desc = Наполнена счастьем.
     .suffix = { "" }
@@ -118,7 +117,6 @@ ent-ADTClothingUniformJumpsuitTurtleneckYellow = жёлтая водолазка
 ent-ADTClothingUniformJumpsuitTurtleneckWhite = белая водолазка
     .desc = Тепло и уютно.
     .suffix = { "" }
-
 
 ent-ADTClothingUniformJumpsuitTurtleneckBrown = коричневая водолазка
     .desc = Знаешь ли ты, почему я ношу красное? Оно хорошо скрывает следы крови! И я вижу, что ты одета в коричневое...
@@ -175,6 +173,9 @@ ent-ADTCapJumpsuitWarm = водолазка капитана
 
 ent-ClothingUniformJumpsuitBlueshieldTurtleneck = водолазка офицера синего щита
     .desc = Белая удобная водолазка Офицера Синего Щита с пришитыми золотыми погонами и ярким именным бейджиком. К сожалению, если вы её наденете, это не будет значить, что вам дадут отпуск.
+
+ent-ADTClothingUniformJumpsuitBrigmedicTurtleneck = водолазка бригмедика
+    .desc = Комфортная и тёплая водолазка. Специально для боевого медика.
 
 ent-ADTSpaceSecUniformCadet = комбинезон кадета SPACE SEC
     .desc = Стандартная одежда корпорации SPACE SEC.
@@ -386,3 +387,53 @@ ent-ADTClothingUniformJumpsuitMGDParticipant = костюм участника �
 ent-ADTClothingUniformJumpsuitMGDGuard = бронированный костюм компании MG&D
     .desc = Состоит из прочного бронежилета "Тактика" а также защиты для коленей и локтей, состоящих из кевлара.
     .suffix = { "MG&D" }
+
+ent-ADTClothingUniformJumpsuitRomanticSuit = красно-белый костюм
+    .desc = Модный романтичный костюм.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTClothingUniformJumpsuitTurtleHeart = водолазка с сердцем
+    .desc = Милая забавная водолазка.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTClothingUniformJumpsuitDarkMan = темный мужской костюм
+    .desc = Стильные темные брюки и пиджак с красной оторочкой.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTClothingUniformJumpsuitBrightMan = светлый мужской костюм
+    .desc = Стильные светлые брюки и красный верх.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTClothingUniformJumpsuitCupidon = одеяние купидона
+    .desc = На 50% мифическое одеяние, на 50% - обернутая вокруг тела простыня.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTClothingUniformJumpsuitRedSweaterHeart = красный свитер с сердечком
+    .desc = Теплый, красный, с любовью.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTClothingUniformJumpsuitWhiteSweaterHeart = белый свитер с сердечком
+    .desc = Теплый, белый, с любовью.
+    .suffix = { "День Святого Валентина" }
+
+ent-ADTCapitanUSSPUniform = униформа капитана флота СССП
+    .desc = Стандартная повседневная униформа капитана космического флота СССП
+    .suffix = { "СССП" }
+ent-ADTAdmiralUSSPUniform = униформа адмирала флота СССП
+    .desc = Стандартная повседневная униформа адмирала космического флота СССП
+    .suffix = { "СССП" }
+ent-ADTFlotUSSPUniform = униформа офицера флота СССП
+    .desc = Стандартная повседневная униформа офицера космического флота СССП
+    .suffix = { "СССП" }
+ent-ADTPilotUSSPUniform = униформа пилота СССП
+    .desc = Средства индивидуальной защиты пилота для противодействия низкому давлению в случае разгерметизации кабины
+    .suffix = { "СССП" }
+ent-ADTSeniorUSSPUniform = униформа старшины флота СССП
+    .desc = Стандартная повседневная униформа старших офицеров космического флота СССП
+    .suffix = { "СССП" }
+ent-ADTParatrooperUSSPUniform = форма десантника СССП
+    .desc = Комплект одежды для космических десантников СССП
+    .suffix = { "СССП" }
+ent-ADTInfantrymanTUSSPUniform = униформа космодесантника СССП
+    .desc = Комплект одежды для космодесантника СССП
+    .suffix = { "СССП" }

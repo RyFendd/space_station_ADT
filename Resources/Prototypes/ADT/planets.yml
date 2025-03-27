@@ -4,9 +4,26 @@
   mapName: shuttle-destination-lavaland
   mapLight: "#1F0E11"
   addedComponents:
+  - type: SpawnInRange
+    protosToSpawn:
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      - LavaDungeonRoomMarker
+      # - BloodMinerDungeMarker
+    minX: -200
+    maxX: 200
+    minY: -200
+    maxY: 200
   - type: FTLDestination
     whitelist:
       components:
+      - MiningShuttleGuest
       - MiningShuttle
   - type: WeatherScheduler # Regular ash storms
     stages:
@@ -54,6 +71,7 @@
   - type: FTLDestination
     whitelist:
       components:
+      - MiningShuttleGuest
       - MiningShuttle
   atmosphere:
     volume: 2500
